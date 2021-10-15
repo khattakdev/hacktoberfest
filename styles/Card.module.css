@@ -5,6 +5,7 @@
   border-radius: 9px;
   transition: all 0.1s linear;
   text-align: center;
+  margin: 10px 10px;
 }
 
 .profile_card:hover {

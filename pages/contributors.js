@@ -2,9 +2,10 @@ import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
 
-import Logo from "../public/logo.svg";
-import SideLogo from "../public/H-icon-dark.svg";
+import Logo from "../public/logos/logo.svg";
+import SideLogo from "../public/logos/H-icon-dark.svg";
 import Card from "../components/card";
+import contributors from "./contributors.json";
 
 export default function Home() {
   return (
@@ -29,8 +30,10 @@ export default function Home() {
 
           <p className={styles.hero_desc}>Contributors list</p>
 
-          <div className="profile_cards">
-            <Card />
+          <div className={styles.profile_cards}>
+            {contributors.map((contributor) => (
+              <Card key={contributor.id} contributor={contributor} />
+            ))}
           </div>
         </main>
       </div>
