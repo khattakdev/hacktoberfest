@@ -1,9 +1,10 @@
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 import styles from "../styles/Home.module.css";
 
-import Logo from "../public/logo.svg";
-import SideLogo from "../public/H-icon-dark.svg";
+import Logo from "../public/logos/logo.svg";
+import SideLogo from "../public/logos/H-icon-dark.svg";
 
 export default function Home() {
   return (
@@ -30,19 +31,18 @@ export default function Home() {
           </p>
 
           <p className={styles.desc}>
-            orem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industrys standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged. It was popularised in the 1960s
-            with the release of Letraset sheets containing Lorem Ipsum passages,
-            and more
+            Hacktoberfest, in its 8th year, is a month-long celebration of open
+            source software run by DigitalOcean. During the month of October, we
+            invite you to join open-source software enthusiasts, beginners, and
+            the developer community by contributing to open-source projects. You
+            can do this in a variety of ways.
           </p>
 
-          <button className={[styles.button, styles.center].join(" ")}>
-            Contributors list
-          </button>
+          <Link href="/contributors" passHref>
+            <button className={[styles.button, styles.center].join(" ")}>
+              Contributors list
+            </button>
+          </Link>
         </main>
       </div>
     </>
