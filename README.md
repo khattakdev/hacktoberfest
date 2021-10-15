@@ -1,34 +1,67 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Hacktoberfest
 
-## Getting Started
+This repository is your gate way to open source contribution. You can open a Pull request for **Hacktoberfest 2021** by following the instructions.
 
-First, run the development server:
+### Fork
 
-```bash
-npm run dev
-# or
-yarn dev
+The very first thing is to fork this repository. You can't make direct changes to this repository until unless I give you permissions.
+
+![Fork]("fork.png")
+
+### Clone the repository
+
+To clone this repository, execute the following line
+
+```
+https://github.com/{username}/hacktoberfest.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Make sure to replace the `username` with your GitHub Handle.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Code Changes
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Once you're done with the cloning, open the repository locally.Checkout to a new branch (`github checkout -b "arsalan"`). Open `public/contributors.json` file, which looks something like this:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```json
+[
+  {
+    "id": "1",
+    "name": "Arsalan Khattak",
+    "title": "Developer Advocate",
+    "picture": "/faces/khattakdev.jpg",
+    "facebook": "https://www.facebook.com/khattakdev/",
+    "linkedin": "https://www.linkedin.com/in/khattakdev/",
+    "github": "https://github.com/khattakdev",
+    "twitter": "https://twitter.com/khattakdev"
+  }
+]
+```
 
-## Learn More
+Copy the following snippet and add your information to the end of the file.
 
-To learn more about Next.js, take a look at the following resources:
+```json
+{
+  "id": "",
+  "name": "",
+  "title": "",
+  "picture": "",
+  "facebook": "",
+  "linkedin": "",
+  "github": "",
+  "twitter": ""
+}
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Also make sure to add your picture to `public/faces`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Pull Request
 
-## Deploy on Vercel
+Next is to push the code (replace `arsalan` with the branch name)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+git push origin arsalan
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Once you push the code, simple go to your remote repository and open a pull request.
+
+That's it 🎉
