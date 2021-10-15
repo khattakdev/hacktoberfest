@@ -6,8 +6,6 @@ This repository is your gate way to open source contribution. You can open a Pul
 
 The very first thing is to fork this repository. You can't make direct changes to this repository until unless I give you permissions.
 
-![Fork]("fork.png")
-
 ### Clone the repository
 
 To clone this repository, execute the following line
@@ -63,5 +61,9 @@ git push origin arsalan
 ```
 
 Once you push the code, simple go to your remote repository and open a pull request.
+
+## Show your support
+
+Give a ⭐️ and follow [@khattakdev](https://github.com/khattakdev) if this project helped you!
 
 That's it 🎉
