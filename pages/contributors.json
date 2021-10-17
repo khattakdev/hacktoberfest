@@ -8,5 +8,15 @@
     "linkedin": "https://www.linkedin.com/in/khattakdev/",
     "github": "https://github.com/khattakdev",
     "twitter": "https://twitter.com/khattakdev"
-  }
+  },
+  {
+  "id": "2",
+  "name": "Qurat Ul Ain Fatima",
+  "title": "Software Engineer",
+  "picture": "/faces/qurat.jpg",
+  "facebook": "https://www.facebook.com/qafatimach/",
+  "linkedin": "https://www.linkedin.com/in/qurat-ul-ain-fatima/",
+  "github": "https://github.com/QuratFatima906",
+  "twitter": "https://twitter.com/Ain_fatima_ch"
+}
 ]
