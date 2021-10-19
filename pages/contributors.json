@@ -27,5 +27,15 @@
   "linkedin": "https://www.linkedin.com/in/qurat-ul-ain-fatima/",
   "github": "https://github.com/QuratFatima906",
   "twitter": "https://twitter.com/Ain_fatima_ch"
-}
+},
+  {
+    "id": "4",
+    "name": "Muhammad Mobeen",
+    "title": "Computer Scientist",
+    "picture": "/faces/muhammad-mobeen.jpg",
+    "facebook": "https://www.facebook.com/mobeen.ahmed.5264",
+    "linkedin": "https://www.linkedin.com/in/mobeen360",
+    "github": "https://github.com/muhammad-mobeen",
+    "twitter": "https://twitter.com/mobeen360"
+  }
 ]
