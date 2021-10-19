@@ -9,9 +9,27 @@
     "github": "https://github.com/khattakdev",
     "twitter": "https://twitter.com/khattakdev"
   },
-
   {
-    "id": "7",
+    "id": "2",
+    "name": "M Sarmad Qadeer",
+    "title": "Tech Curious",
+    "picture": "/faces/SarmadFromPakistan.jpg",
+    "facebook": "https://www.facebook.com/SarmadFromPakistan/",
+    "linkedin": "https://www.linkedin.com/in/sarmadfrompakistan/",
+    "github": "https://github.com/SarmadFromPakistan",
+    "twitter": "https://twitter.com/M_Sarmad_Qadeer/"
+  },
+  "id": "3",
+  "name": "Qurat Ul Ain Fatima",
+  "title": "Software Engineer",
+  "picture": "/faces/qurat.jpg",
+  "facebook": "https://www.facebook.com/qafatimach/",
+  "linkedin": "https://www.linkedin.com/in/qurat-ul-ain-fatima/",
+  "github": "https://github.com/QuratFatima906",
+  "twitter": "https://twitter.com/Ain_fatima_ch"
+},
+  {
+    "id": "4",
     "name": "Muhammad Mobeen",
     "title": "Computer Scientist",
     "picture": "/faces/muhammad-mobeen.jpg",
