@@ -38,5 +38,16 @@
     "linkedin": "https://www.linkedin.com/in/mobeen360",
     "github": "https://github.com/muhammad-mobeen",
     "twitter": "https://twitter.com/mobeen360"
+  },
+  {
+    "id": "5",
+    "name": "Waleed Ahmad",
+    "title": "Web-App Developer",
+    "picture": "/faces/Waleed.jpg",
+    "facebook": "https://web.facebook.com/rajput.boii",
+    "linkedin": "https://www.linkedin.com/in/wal33dahmad/",
+    "github": "https://github.com/wal33dahmad",
+    "twitter": "#"
   }
+
 ]
