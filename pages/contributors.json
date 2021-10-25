@@ -41,6 +41,16 @@
   },
   {
     "id": "5",
+    "name": "Waleed Ahmad",
+    "title": "Web-App Developer",
+    "picture": "/faces/Waleed.jpg",
+    "facebook": "https://web.facebook.com/rajput.boii",
+    "linkedin": "https://www.linkedin.com/in/wal33dahmad/",
+    "github": "https://github.com/wal33dahmad",
+    "twitter": "#"
+  },
+  {
+    "id": "6",
     "name": "Ali Raza",
     "title": "Developer lead PUCIT",
     "picture": "/faces/alirazamumtaz.png",
@@ -49,4 +59,5 @@
     "github": "https://github.com/alirazamumtaz",
     "twitter": "https://twitter.com/AliRazaMumtaz"
   }
+
 ]
