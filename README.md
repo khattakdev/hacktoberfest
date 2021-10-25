@@ -18,7 +18,7 @@ Make sure to replace the `username` with your GitHub Handle.
 
 ### Code Changes
 
-Once you're done with the cloning, open the repository locally.Checkout to a new branch (`github checkout -b "arsalan"`). Open `public/contributors.json` file, which looks something like this:
+Once you're done with the cloning, open the repository locally.Checkout to a new branch (`github checkout -b "arsalan"`). Open `pages/contributors.json` file, which looks something like this:
 
 ```json
 [
