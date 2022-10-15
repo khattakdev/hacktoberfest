@@ -1,5 +1,15 @@
 [
   {
+    "id": "0",
+    "name": "Ahmad Mustafa Anis",
+    "title": "Machine Learning Engineer",
+    "picture": "/faces/ahmad.jpg",
+    "facebook": "https://www.facebook.com/profile.php?id=100083140459208",
+    "linkedin": "https://www.linkedin.com/in/ahmad-anis/",
+    "github": "https://github.com/ahmadmustafaanis",
+    "twitter": "https://twitter.com/AhmadMustafaAn1"
+  },
+  {
     "id": "1",
     "name": "Arsalan Khattak",
     "title": "Developer Advocate",
@@ -20,15 +30,15 @@
     "twitter": "https://twitter.com/M_Sarmad_Qadeer/"
   },
   {
-  "id": "3",
-  "name": "Qurat Ul Ain Fatima",
-  "title": "Software Engineer",
-  "picture": "/faces/qurat.jpg",
-  "facebook": "https://www.facebook.com/qafatimach/",
-  "linkedin": "https://www.linkedin.com/in/qurat-ul-ain-fatima/",
-  "github": "https://github.com/QuratFatima906",
-  "twitter": "https://twitter.com/Ain_fatima_ch"
-},
+    "id": "3",
+    "name": "Qurat Ul Ain Fatima",
+    "title": "Software Engineer",
+    "picture": "/faces/qurat.jpg",
+    "facebook": "https://www.facebook.com/qafatimach/",
+    "linkedin": "https://www.linkedin.com/in/qurat-ul-ain-fatima/",
+    "github": "https://github.com/QuratFatima906",
+    "twitter": "https://twitter.com/Ain_fatima_ch"
+  },
   {
     "id": "4",
     "name": "Muhammad Mobeen",
@@ -59,5 +69,4 @@
     "github": "https://github.com/alirazamumtaz",
     "twitter": "https://twitter.com/AliRazaMumtaz"
   }
-
 ]
