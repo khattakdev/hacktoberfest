@@ -20,15 +20,15 @@
     "twitter": "https://twitter.com/M_Sarmad_Qadeer/"
   },
   {
-  "id": "3",
-  "name": "Qurat Ul Ain Fatima",
-  "title": "Software Engineer",
-  "picture": "/faces/qurat.jpg",
-  "facebook": "https://www.facebook.com/qafatimach/",
-  "linkedin": "https://www.linkedin.com/in/qurat-ul-ain-fatima/",
-  "github": "https://github.com/QuratFatima906",
-  "twitter": "https://twitter.com/Ain_fatima_ch"
-},
+    "id": "3",
+    "name": "Qurat Ul Ain Fatima",
+    "title": "Software Engineer",
+    "picture": "/faces/qurat.jpg",
+    "facebook": "https://www.facebook.com/qafatimach/",
+    "linkedin": "https://www.linkedin.com/in/qurat-ul-ain-fatima/",
+    "github": "https://github.com/QuratFatima906",
+    "twitter": "https://twitter.com/Ain_fatima_ch"
+  },
   {
     "id": "4",
     "name": "Muhammad Mobeen",
@@ -58,6 +58,15 @@
     "linkedin": "https://www.linkedin.com/in/alirazamumtaz/",
     "github": "https://github.com/alirazamumtaz",
     "twitter": "https://twitter.com/AliRazaMumtaz"
+  },
+  {
+    "id": "7",
+    "name": "Usman Afzal",
+    "title": "Web-App Developer",
+    "picture": "/faces/UsmanAfzal.jpg",
+    "facebook": "https://www.facebook.com/MalikUsman/",
+    "linkedin": "https://www.linkedin.com/in/-usman-afzal/",
+    "github": "https://github.com/MALIKUSMAN60",
+    "twitter": "https://twitter.com/Malik"
   }
-
 ]
