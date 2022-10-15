@@ -58,6 +58,15 @@
     "linkedin": "https://www.linkedin.com/in/alirazamumtaz/",
     "github": "https://github.com/alirazamumtaz",
     "twitter": "https://twitter.com/AliRazaMumtaz"
+  },
+  {
+    "id": "7",
+    "name": "Usman",
+    "title": "Software Engineer",
+    "picture": "/faces/ali.jpg",
+    "facebook": "https://www.facebook.com/ali.ahmed.581",
+    "linkedin": "https://www.linkedin.com/in/ali-ahmed-7b1b4a1a/",
+    "github": ""
   }
 
 ]
