@@ -58,6 +58,16 @@
     "linkedin": "https://www.linkedin.com/in/alirazamumtaz/",
     "github": "https://github.com/alirazamumtaz",
     "twitter": "https://twitter.com/AliRazaMumtaz"
-  }
+  },
 
+  {
+    "id": "30",
+    "name": "Moin ud din",
+    "title": "Software Engineer",
+    "picture": "/faces/Moin.jpg",
+    "facebook": "https://www.facebook.com/moinuddinrao/",
+    "linkedin": "https://www.linkedin.com/in/moinuddinrao/",
+    "github": "https://github.com/moinuddinrao",
+    "twitter": "https://twitter.com/moinuddinrao"
+  }
 ]
