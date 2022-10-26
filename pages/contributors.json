@@ -58,6 +58,16 @@
     "linkedin": "https://www.linkedin.com/in/alirazamumtaz/",
     "github": "https://github.com/alirazamumtaz",
     "twitter": "https://twitter.com/AliRazaMumtaz"
+  },
+  {
+    "id": "7",
+    "name": "Kamran Jesar",
+    "title": "Member of GDSC",
+    "picture": "/faces/kamran.png",
+    "facebook": "https://www.facebook.com/jesarkamran/",
+    "linkedin": "https://www.linkedin.com/in/jesarkamran/",
+    "github": "https://github.com/jesarkamran",
+    "twitter": "https://twitter.com/jesarkamran"
   }
 
 ]
