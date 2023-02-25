@@ -58,6 +58,17 @@
     "linkedin": "https://www.linkedin.com/in/alirazamumtaz/",
     "github": "https://github.com/alirazamumtaz",
     "twitter": "https://twitter.com/AliRazaMumtaz"
-  }
+  },
+
+  {
+  "id": "7",
+  "name": "Taimour Afzal",
+  "title": "Full Stack Developer PIEAS",
+  "picture": "/faces/Taimour.png",
+  "facebook": "NIL",
+  "linkedin": "https://www.linkedin.com/in/muhammad-taimour-afzal-khan-5702061a9/",
+  "github": "https://github.com/taimourz",
+  "twitter": "NIL"
+}
 
 ]
