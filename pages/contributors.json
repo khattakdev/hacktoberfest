@@ -1,63 +1,13 @@
 [
   {
     "id": "1",
-    "name": "Arsalan Khattak",
-    "title": "Developer Advocate",
-    "picture": "/faces/khattakdev.jpg",
-    "facebook": "https://www.facebook.com/khattakdev/",
-    "linkedin": "https://www.linkedin.com/in/khattakdev/",
-    "github": "https://github.com/khattakdev",
-    "twitter": "https://twitter.com/khattakdev"
-  },
-  {
-    "id": "2",
-    "name": "M Sarmad Qadeer",
-    "title": "Tech Curious",
-    "picture": "/faces/SarmadFromPakistan.jpg",
-    "facebook": "https://www.facebook.com/SarmadFromPakistan/",
-    "linkedin": "https://www.linkedin.com/in/sarmadfrompakistan/",
-    "github": "https://github.com/SarmadFromPakistan",
-    "twitter": "https://twitter.com/M_Sarmad_Qadeer/"
-  },
-  {
-  "id": "3",
-  "name": "Qurat Ul Ain Fatima",
-  "title": "Software Engineer",
-  "picture": "/faces/qurat.jpg",
-  "facebook": "https://www.facebook.com/qafatimach/",
-  "linkedin": "https://www.linkedin.com/in/qurat-ul-ain-fatima/",
-  "github": "https://github.com/QuratFatima906",
-  "twitter": "https://twitter.com/Ain_fatima_ch"
-},
-  {
-    "id": "4",
-    "name": "Muhammad Mobeen",
-    "title": "Computer Scientist",
-    "picture": "/faces/muhammad-mobeen.jpg",
-    "facebook": "https://www.facebook.com/mobeen.ahmed.5264",
-    "linkedin": "https://www.linkedin.com/in/mobeen360",
-    "github": "https://github.com/muhammad-mobeen",
-    "twitter": "https://twitter.com/mobeen360"
-  },
-  {
-    "id": "5",
-    "name": "Waleed Ahmad",
-    "title": "Web-App Developer",
-    "picture": "/faces/Waleed.jpg",
-    "facebook": "https://web.facebook.com/rajput.boii",
-    "linkedin": "https://www.linkedin.com/in/wal33dahmad/",
-    "github": "https://github.com/wal33dahmad",
-    "twitter": "#"
-  },
-  {
-    "id": "6",
-    "name": "Ali Raza",
-    "title": "Developer lead PUCIT",
-    "picture": "/faces/alirazamumtaz.png",
-    "facebook": "https://www.facebook.com/elirazamumtaz/",
-    "linkedin": "https://www.linkedin.com/in/alirazamumtaz/",
-    "github": "https://github.com/alirazamumtaz",
-    "twitter": "https://twitter.com/AliRazaMumtaz"
+    "name": "Aniq Javed",
+    "title": "Software Engineer",
+    "picture": "/faces/aniqjaved.jpg",
+    "facebook": "https://www.facebook.com/aniqjaved/",
+    "linkedin": "https://www.linkedin.com/in/aniq-javed/",
+    "github": "https://github.com/aniqjaved",
+    "twitter": "https://twitter.com/aniq_javed"
   }
 
 ]

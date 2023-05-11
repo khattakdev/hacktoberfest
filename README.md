@@ -1,6 +1,6 @@
-## Hacktoberfest
+## Github Basics
 
-This repository is your gate way to open source contribution. You can open a Pull request for **Hacktoberfest 2021** by following the instructions.
+This repository is your gate way to open source contribution. You can open a Pull request for by following the instructions.
 
 ### Fork
 
@@ -11,26 +11,26 @@ The very first thing is to fork this repository. You can't make direct changes t
 To clone this repository, execute the following line
 
 ```
-https://github.com/{username}/hacktoberfest.git
+https://github.com/{username}/github-basics.git
 ```
 
 Make sure to replace the `username` with your GitHub Handle.
 
 ### Code Changes
 
-Once you're done with the cloning, open the repository locally.Checkout to a new branch (`github checkout -b "arsalan"`). Open `pages/contributors.json` file, which looks something like this:
+Once you're done with the cloning, open the repository locally.Checkout to a new branch (`github checkout -b "aniq"`). Open `pages/contributors.json` file, which looks something like this:
 
 ```json
 [
   {
     "id": "1",
-    "name": "Arsalan Khattak",
-    "title": "Developer Advocate",
-    "picture": "/faces/khattakdev.jpg",
-    "facebook": "https://www.facebook.com/khattakdev/",
-    "linkedin": "https://www.linkedin.com/in/khattakdev/",
-    "github": "https://github.com/khattakdev",
-    "twitter": "https://twitter.com/khattakdev"
+    "name": "Aniq Javed",
+    "title": "Software Engineer",
+    "picture": "/faces/aniqjaved.jpg",
+    "facebook": "https://www.facebook.com/aniqjaved/",
+    "linkedin": "https://www.linkedin.com/in/aniq-javed/",
+    "github": "https://github.com/aniqjaved",
+    "twitter": "https://twitter.com/aniq_javed"
   }
 ]
 ```
@@ -54,16 +54,16 @@ Also make sure to add your picture to `public/faces`
 
 ## Pull Request
 
-Next is to push the code (replace `arsalan` with the branch name)
+Next is to push the code (replace `aniq` with the branch name)
 
 ```
-git push origin arsalan
+git push origin aniq
 ```
 
 Once you push the code, simple go to your remote repository and open a pull request.
 
 ## Show your support
 
-Give a ⭐️ and follow [@khattakdev](https://github.com/khattakdev) if this project helped you!
+Give a ⭐️ and follow [@aniqjaved](https://github.com/aniqjaved) if this project helped you!
 
 That's it 🎉
