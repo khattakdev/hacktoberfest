@@ -73,7 +73,7 @@ That's it 🎉
   {
     "id": "2",
     "name": "Muhammad Qasim Omer",
-    "title": "Beta Mlsa",
+    "title": "Web-App Developer",
     "picture": "/faces/Muhammad-Qasim-Omer.jpeg",
     "facebook": "https://www.facebook.com/mohammad.qasimomer/",
     "linkedin": "https://www.linkedin.com/in/mqasimomer/",

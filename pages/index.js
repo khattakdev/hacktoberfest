@@ -10,11 +10,11 @@ export default function Home() {
   return (
     <>
       <div className={styles.side_logo}>
-        <Image layout="fill" src={SideLogo} alt="Hacktoberfest 2021" />
+        <Image layout="fill" src={SideLogo} alt="Hacktoberfest 2023" />
       </div>
       <div className={styles.container}>
         <Head>
-          <title>Hacktoberfest 2021</title>
+          <title>Hacktoberfest 2023</title>
           <meta
             name="description"
             content="Hacktoberfest Pakistan by KhattakDev"
@@ -24,7 +24,7 @@ export default function Home() {
 
         <main className={styles.main}>
           <div className={styles.logo}>
-            <Image layout="fill" src={Logo} alt="Hacktoberfest 2021" />
+            <Image layout="fill" src={Logo} alt="Hacktoberfest 2023" />
           </div>
           <p className={styles.hero_desc}>
             Your Gateway to the Open Source Community
