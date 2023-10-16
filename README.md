@@ -67,3 +67,18 @@ Once you push the code, simple go to your remote repository and open a pull requ
 Give a ⭐️ and follow [@khattakdev](https://github.com/khattakdev) if this project helped you!
 
 That's it 🎉
+
+```json
+[
+  {
+    "id": "2",
+    "name": "Muhammad Qasim Omer",
+    "title": "Web-App Developer",
+    "picture": "/faces/Muhammad-Qasim-Omer.jpeg",
+    "facebook": "https://www.facebook.com/mohammad.qasimomer/",
+    "linkedin": "https://www.linkedin.com/in/mqasimomer/",
+    "github": "https://www.github.com/QasimOmer/",
+    "twitter": "https://www.twitter.com/not_mqasimomer/"
+  }
+]
+```

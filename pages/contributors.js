@@ -25,7 +25,7 @@ export default function Home() {
 
         <main className={styles.main}>
           <div className={styles.logo}>
-            <Image layout="fill" src={Logo} alt="Hacktoberfest 2021" />
+            <Image layout="fill" src={Logo} alt="Hacktoberfest 2023" />
           </div>
 
           <p className={styles.hero_desc}>Contributors list</p>
