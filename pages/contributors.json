@@ -58,6 +58,15 @@
     "linkedin": "https://www.linkedin.com/in/alirazamumtaz/",
     "github": "https://github.com/alirazamumtaz",
     "twitter": "https://twitter.com/AliRazaMumtaz"
+  },
+  {
+    "id": "7",
+    "name": "Hamza Khattak",
+    "title": "Full Stack Web Developer",
+    "picture": "/faces/hamza.png",
+    "facebook": "https://www.facebook.com/profile.php?id=100032332901297",
+    "linkedin": "https://www.linkedin.com/in/hamza-shaukat-b5551925a/",
+    "github": "https://github.com/mZeeDevv",
+    "twitter": "https://twitter.com/mZeeDev"
   }
-
 ]
