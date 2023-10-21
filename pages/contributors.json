@@ -68,5 +68,15 @@
     "linkedin": "https://www.linkedin.com/in/hamza-shaukat-b5551925a/",
     "github": "https://github.com/mZeeDevv",
     "twitter": "https://twitter.com/mZeeDev"
+  },
+  {
+    "id": "8",
+    "name": "Abdul Rehman",
+    "title": "Web Developer",
+    "picture": "/faces/abdulrehman.png",
+    "facebook": "https://facebook.com/profile.php?id=100022115376320",
+    "linkedin": "https://www.linkedin.com/in/abdulrehman0/",
+    "github": "https://github.com/abdulrehmanghub",
+    "twitter": "https://twitter.com/devabdulrehman"
   }
 ]
